@@ -1,0 +1,3 @@
+rootProject.name = 'new_automation_1307'
+
+include ':app'
